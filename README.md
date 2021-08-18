@@ -1,4 +1,4 @@
-# Read Me
+# Introduction
 
 This repository includes the codes and files for the minor in computer science at USTC.
 
