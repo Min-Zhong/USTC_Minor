@@ -1,0 +1,34 @@
+Begin training...
+Train on 200 samples
+Epoch 1/10
+200/200 [==============================] - 92s 460ms/sample - loss: 1.5539 - accuracy: 0.4750
+Epoch 2/10
+200/200 [==============================] - 73s 366ms/sample - loss: 0.9137 - accuracy: 0.5100
+Epoch 3/10
+200/200 [==============================] - 74s 368ms/sample - loss: 0.7964 - accuracy: 0.6050
+Epoch 4/10
+200/200 [==============================] - 75s 377ms/sample - loss: 0.7818 - accuracy: 0.6300
+Epoch 5/10
+200/200 [==============================] - 74s 369ms/sample - loss: 0.7834 - accuracy: 0.6000
+Epoch 6/10
+200/200 [==============================] - 72s 360ms/sample - loss: 0.8121 - accuracy: 0.5500
+Epoch 7/10
+200/200 [==============================] - 72s 359ms/sample - loss: 0.8310 - accuracy: 0.5500
+Epoch 8/10
+200/200 [==============================] - 74s 372ms/sample - loss: 0.7517 - accuracy: 0.5500
+Epoch 9/10
+200/200 [==============================] - 75s 374ms/sample - loss: 0.6913 - accuracy: 0.6700
+Epoch 10/10
+200/200 [==============================] - 75s 373ms/sample - loss: 0.7378 - accuracy: 0.5950
+Train finished!
+Begin Evaluation...
+24s 125ms/sample - loss: 0.4415 - accuracy: 0.5684
+Evaluation finished!
+Saving model...
+Model saved!
+Image predicting...
+[[0.6431372  0.35686272]]
+Image 2 predicting...
+[[0.34226546 0.65773445]]
+Image 3 predicting...
+[[0.84828115 0.15171883]]
